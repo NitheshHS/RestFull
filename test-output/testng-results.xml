@@ -2,24 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7135" started-at="2020-08-20T05:30:06Z" finished-at="2020-08-20T05:30:13Z">
+  <suite name="Default suite" duration-ms="8653" started-at="2020-09-15T07:32:34Z" finished-at="2020-09-15T07:32:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7135" started-at="2020-08-20T05:30:06Z" finished-at="2020-08-20T05:30:13Z">
-      <class name="com.Rest.Test.GetAllProject">
-        <test-method status="PASS" signature="configBS()[pri:0, instance:com.Rest.Test.GetAllProject@271053e1]" name="configBS" is-config="true" duration-ms="1747" started-at="2020-08-20T05:30:04Z" finished-at="2020-08-20T05:30:06Z">
+    <test name="Default test" duration-ms="8653" started-at="2020-09-15T07:32:34Z" finished-at="2020-09-15T07:32:42Z">
+      <class name="com.Rest.Test.GetGmailUser">
+        <test-method status="PASS" signature="GmailTest()[pri:0, instance:com.Rest.Test.GetGmailUser@31ef45e3]" name="GmailTest" duration-ms="8552" started-at="2020-09-15T07:32:34Z" finished-at="2020-09-15T07:32:42Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- configBS -->
-        <test-method status="PASS" signature="getAllproject()[pri:0, instance:com.Rest.Test.GetAllProject@271053e1]" name="getAllproject" duration-ms="7108" started-at="2020-08-20T05:30:06Z" finished-at="2020-08-20T05:30:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getAllproject -->
-        <test-method status="PASS" signature="configAS()[pri:0, instance:com.Rest.Test.GetAllProject@271053e1]" name="configAS" is-config="true" duration-ms="3" started-at="2020-08-20T05:30:13Z" finished-at="2020-08-20T05:30:13Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- configAS -->
-      </class> <!-- com.Rest.Test.GetAllProject -->
+        </test-method> <!-- GmailTest -->
+      </class> <!-- com.Rest.Test.GetGmailUser -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
